@@ -3,7 +3,7 @@
 Each week i'll solve one problem related to LinkedLists using Golang programming language.
 Source of problems :
 	
-	[Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
+	http://cslibrary.stanford.edu/105/LinkedListProblems.pdf
 
 ## Abstract
 
